@@ -31,6 +31,7 @@ gem 'jquery-rails'
 gem 'pg'
 gem 'slim-rails'
 gem 'therubyracer', :platform=>:ruby
+gem 'mongoid'
 group :development do
   gem 'better_errors'
   gem 'capistrano', '~> 3.0.1'
